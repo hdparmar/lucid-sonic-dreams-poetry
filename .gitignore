@@ -6,4 +6,3 @@ setup.cfg
 
 # Ignore repo.egg-info folder
 *.egg-info/
-
