@@ -1,0 +1,9 @@
+# Ignore build folder
+build/
+
+# Ignore setup.cfg
+setup.cfg
+
+# Ignore repo.egg-info folder
+*.egg-info/
+
